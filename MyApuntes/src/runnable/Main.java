@@ -232,7 +232,7 @@ public class Main extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				if (base == null) {
 					JOptionPane.showMessageDialog(null,
-							"SI TIENE PROBLEMAS PARA RECORDAR\nLA CONTRASEÑA PÓNGASE EN CONTACTO\nCON EL SERVICIO TÉCNICO EN\nadrianinformatics@gmail.com",
+							"SI TIENE PROBLEMAS PARA RECORDAR\nLA CONTRASEÑA PÓNGASE EN CONTACTO\nCON EL SERVICIO TÉCNICO EN\nadrian.role.business@gmail.com",
 							"CAMBIAR CONTRASEÑA", JOptionPane.PLAIN_MESSAGE);
 				} else {
 					try {
